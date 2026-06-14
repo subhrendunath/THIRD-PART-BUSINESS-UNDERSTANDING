@@ -1,0 +1,337 @@
+customer_id,snapshot_date,city_tier,age_group,acquisition_channel,loyalty_tier,preferred_category,marketing_consent,recency_days,frequency_180d,monetary_180d,return_rate_180d,avg_discount_pct_180d,avg_rating_180d,category_diversity_180d,ticket_count_90d,negative_ticket_rate_90d,avg_resolution_hours_90d,days_since_signup,sessions_30d,product_views_30d,cart_adds_30d,wishlist_adds_30d,abandoned_carts_30d,email_opens_30d,campaign_clicks_30d,last_visit_days_ago,churn_next_60d,split
+CUST00006,2025-09-30,Tier 2,35-44,Instagram,Silver,Baby Care,Yes,51,4,2989.58,0.25,0.38,4.5,3,2,1.0,17.6,365,2,8,1,0,1,0,0,1,0,validation
+CUST00008,2025-09-30,Tier 2,18-24,Organic,Silver,Skin Care,Yes,47,3,2449.11,0.0,0.217,2.33,3,0,0.0,0.0,316,2,11,1,0,0,0,0,16,0,validation
+CUST00027,2025-09-30,Tier 1,45+,Instagram,,Baby Care,Yes,70,1,2128.34,1.0,0.3,1.0,1,1,0.0,8.0,532,11,44,3,2,1,5,2,18,0,validation
+CUST00033,2025-09-30,Tier 3,18-24,Google Search,Gold,Fragrance,Yes,12,3,1877.69,0.333,0.403,4.67,3,1,1.0,33.3,411,7,41,2,2,1,3,0,7,0,validation
+CUST00048,2025-09-30,Tier 1,25-34,Marketplace,Silver,Makeup,No,61,4,2450.45,0.25,0.312,3.25,3,0,0.0,0.0,192,12,38,2,2,1,0,0,12,0,validation
+CUST00053,2025-09-30,Tier 2,25-34,Instagram,Silver,Baby Care,Yes,25,3,2063.87,0.0,0.457,4.67,2,1,1.0,56.1,254,9,29,2,2,1,3,1,5,0,validation
+CUST00056,2025-09-30,Tier 2,35-44,Google Search,,Wellness,No,9,3,3150.69,0.0,0.287,4.0,2,1,0.0,19.9,192,3,15,1,1,1,0,0,0,0,validation
+CUST00077,2025-09-30,Tier 3,25-34,Google Search,,Makeup,Yes,109,1,394.32,0.0,0.36,4.0,1,0,0.0,0.0,214,0,0,0,0,0,0,0,20,1,validation
+CUST00093,2025-09-30,Tier 1,18-24,Instagram,Gold,Baby Care,Yes,85,1,759.64,0.0,0.12,4.0,1,0,0.0,0.0,258,16,67,7,3,3,9,4,21,1,validation
+CUST00094,2025-09-30,Tier 1,25-34,Instagram,,Wellness,Yes,183,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,329,6,20,2,1,1,4,1,60,1,validation
+CUST00100,2025-09-30,Tier 1,25-34,Referral,,Skin Care,No,70,1,372.37,0.0,0.29,5.0,1,0,0.0,0.0,460,1,3,0,0,0,0,0,29,0,validation
+CUST00104,2025-09-30,Tier 1,35-44,Organic,,Makeup,Yes,93,1,955.63,0.0,0.31,5.0,1,0,0.0,0.0,176,3,9,1,0,0,3,0,27,1,validation
+CUST00107,2025-09-30,Tier 2,18-24,Organic,,Baby Care,No,12,2,1658.13,0.0,0.125,5.0,2,0,0.0,0.0,421,2,8,1,0,1,0,0,10,0,validation
+CUST00116,2025-09-30,Tier 1,25-34,Referral,,Hair Care,Yes,143,1,452.08,0.0,0.27,5.0,1,0,0.0,0.0,412,10,45,1,1,0,4,2,26,1,validation
+CUST00121,2025-09-30,Tier 1,18-24,Instagram,Gold,Hair Care,Yes,27,2,2496.03,0.0,0.19,2.5,1,0,0.0,0.0,125,5,29,2,1,1,3,1,2,0,validation
+CUST00134,2025-09-30,Tier 2,25-34,Marketplace,,Fragrance,Yes,35,2,1527.11,0.5,0.3,3.0,2,0,0.0,0.0,590,11,49,1,3,1,8,0,4,0,validation
+CUST00144,2025-09-30,Tier 2,25-34,Google Search,Gold,Skin Care,Yes,86,2,928.58,0.0,0.295,4.5,2,1,1.0,27.5,570,8,32,3,1,0,6,2,17,0,validation
+CUST00145,2025-09-30,Tier 1,18-24,Google Search,,Wellness,No,30,1,502.35,0.0,0.11,5.0,1,0,0.0,0.0,51,0,0,0,0,0,0,0,0,1,validation
+CUST00156,2025-09-30,Tier 1,25-34,Referral,,Skin Care,Yes,34,2,4241.75,0.5,0.145,2.5,1,1,0.0,2.8,111,14,77,2,3,1,10,0,0,0,validation
+CUST00157,2025-09-30,Tier 3,35-44,Marketplace,,Skin Care,Yes,0,1,376.83,0.0,0.22,1.0,1,0,0.0,0.0,475,3,14,1,1,0,2,1,5,1,validation
+CUST00165,2025-09-30,Tier 2,18-24,Instagram,Gold,Skin Care,Yes,103,3,1825.77,0.0,0.31,4.67,1,0,0.0,0.0,249,2,8,0,0,0,0,0,15,0,validation
+CUST00177,2025-09-30,Tier 1,25-34,Marketplace,,Skin Care,No,82,1,255.04,0.0,0.42,1.0,1,0,0.0,0.0,201,12,46,1,2,0,0,0,28,0,validation
+CUST00188,2025-09-30,Tier 2,18-24,Marketplace,Gold,Fragrance,Yes,29,2,1880.31,0.0,0.23,3.5,2,1,1.0,9.3,523,11,31,1,3,0,1,0,5,1,validation
+CUST00191,2025-09-30,Tier 3,45+,Influencer,Silver,Hair Care,Yes,28,1,149.0,0.0,0.34,3.0,1,0,0.0,0.0,68,6,35,2,1,1,2,0,11,0,validation
+CUST00197,2025-09-30,Tier 3,25-34,Referral,Silver,Makeup,No,15,2,2989.16,0.0,0.305,5.0,2,1,1.0,54.3,371,11,34,1,1,0,0,0,10,0,validation
+CUST00199,2025-09-30,Tier 3,25-34,Google Search,Silver,Hair Care,Yes,6,4,3273.56,0.0,0.227,3.5,4,1,1.0,63.0,127,3,12,2,0,1,0,0,0,0,validation
+CUST00203,2025-09-30,Tier 3,35-44,Instagram,,Skin Care,Yes,114,2,743.35,0.0,0.39,3.0,2,0,0.0,0.0,198,6,31,3,2,1,2,0,28,1,validation
+CUST00209,2025-09-30,Tier 3,25-34,Instagram,,Fragrance,Yes,279,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,558,3,14,0,0,0,0,0,46,1,validation
+CUST00226,2025-09-30,Tier 1,25-34,Instagram,Silver,Hair Care,No,54,3,2345.42,0.333,0.157,4.0,1,1,1.0,17.6,165,6,30,2,2,1,0,0,34,0,validation
+CUST00237,2025-09-30,Tier 1,25-34,Organic,Platinum,Makeup,Yes,15,4,3607.29,0.0,0.253,3.75,2,0,0.0,0.0,339,8,44,3,0,1,6,1,0,0,validation
+CUST00258,2025-09-30,Tier 3,18-24,Google Search,,Hair Care,Yes,42,3,2284.5,0.0,0.33,4.33,2,0,0.0,0.0,636,7,21,4,2,2,4,0,7,0,validation
+CUST00260,2025-09-30,Tier 3,45+,Instagram,,Skin Care,Yes,2,2,1820.81,0.0,0.395,3.0,1,0,0.0,0.0,110,7,32,1,2,0,1,0,7,0,validation
+CUST00263,2025-09-30,Tier 3,18-24,Google Search,Platinum,Wellness,Yes,25,3,1618.39,0.667,0.373,4.0,3,2,0.0,16.55,532,15,63,5,3,3,8,2,11,0,validation
+CUST00267,2025-09-30,Tier 2,25-34,Organic,,Fragrance,No,29,1,441.97,0.0,0.37,4.0,1,1,0.0,2.7,426,8,21,1,1,0,0,0,11,1,validation
+CUST00269,2025-09-30,Tier 2,25-34,Instagram,,Makeup,Yes,30,3,2563.93,0.0,0.33,4.33,3,0,0.0,0.0,175,11,46,3,0,2,4,1,10,0,validation
+CUST00272,2025-09-30,Tier 2,25-34,Google Search,Gold,Skin Care,No,12,5,3882.03,0.0,0.208,3.6,3,0,0.0,0.0,608,7,42,3,2,0,0,0,1,0,validation
+CUST00276,2025-09-30,Tier 1,25-34,Referral,Silver,Makeup,Yes,47,2,3495.3,0.0,0.215,3.5,2,0,0.0,0.0,536,9,30,4,1,1,3,1,14,0,validation
+CUST00281,2025-09-30,Tier 3,35-44,Marketplace,,Wellness,No,35,2,1161.06,0.0,0.335,3.5,2,0,0.0,0.0,191,3,17,1,1,0,0,0,9,1,validation
+CUST00284,2025-09-30,Tier 3,18-24,Instagram,Silver,Baby Care,Yes,291,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,311,1,5,1,0,1,4,1,60,1,validation
+CUST00285,2025-09-30,Tier 2,35-44,Instagram,,Hair Care,No,13,2,1070.21,0.0,0.38,2.5,1,0,0.0,0.0,376,10,34,1,3,1,0,0,16,0,validation
+CUST00301,2025-09-30,Tier 1,25-34,Referral,Gold,Hair Care,No,9,2,1279.6,0.0,0.205,2.5,1,1,1.0,35.0,212,7,26,1,0,1,0,0,13,0,validation
+CUST00313,2025-09-30,Tier 1,35-44,Organic,,Skin Care,Yes,162,1,769.77,0.0,0.33,3.0,1,0,0.0,0.0,410,16,54,1,2,1,2,0,37,1,validation
+CUST00321,2025-09-30,Tier 2,25-34,Organic,Silver,Baby Care,Yes,116,2,1114.17,0.0,0.31,3.0,2,0,0.0,0.0,600,1,5,0,0,0,4,2,20,1,validation
+CUST00324,2025-09-30,Tier 3,35-44,Influencer,,Hair Care,Yes,274,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,434,0,0,0,0,0,1,0,60,1,validation
+CUST00327,2025-09-30,Tier 1,25-34,Organic,Gold,Skin Care,Yes,2,1,367.29,0.0,0.41,4.0,1,0,0.0,0.0,318,7,30,1,1,1,8,1,14,1,validation
+CUST00328,2025-09-30,Tier 1,35-44,Organic,,Hair Care,Yes,322,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,364,2,7,0,0,0,2,0,60,1,validation
+CUST00332,2025-09-30,Tier 2,25-34,Instagram,Silver,Skin Care,Yes,24,2,2059.8,0.5,0.375,1.5,1,2,1.0,12.1,107,0,0,0,0,0,3,0,6,0,validation
+CUST00337,2025-09-30,Tier 2,25-34,Marketplace,,Makeup,Yes,7,2,1887.73,0.0,0.385,3.5,2,1,0.0,35.9,24,2,11,1,1,1,1,0,9,1,validation
+CUST00338,2025-09-30,Tier 2,25-34,Instagram,,Skin Care,No,12,1,887.38,1.0,0.27,1.0,1,1,1.0,16.4,78,6,31,2,1,0,0,0,8,0,validation
+CUST00345,2025-09-30,Tier 2,25-34,Influencer,Silver,Makeup,Yes,3,3,3946.38,0.0,0.127,4.33,2,0,0.0,0.0,278,15,71,4,1,2,5,0,0,0,validation
+CUST00350,2025-09-30,Tier 1,35-44,Marketplace,,Hair Care,Yes,41,1,537.51,0.0,0.12,4.0,1,0,0.0,0.0,79,18,46,4,3,3,10,0,0,0,validation
+CUST00357,2025-09-30,Tier 2,25-34,Instagram,Silver,Skin Care,Yes,42,1,513.15,0.0,0.29,1.0,1,1,1.0,12.9,88,9,53,4,1,2,8,1,2,1,validation
+CUST00365,2025-09-30,Tier 1,25-34,Marketplace,,Skin Care,Yes,158,1,1015.06,0.0,0.21,2.0,1,0,0.0,0.0,166,7,31,3,2,2,0,0,21,1,validation
+CUST00369,2025-09-30,Tier 3,25-34,Instagram,,Skin Care,Yes,71,1,910.05,0.0,0.16,2.0,1,0,0.0,0.0,437,7,23,1,1,0,2,1,0,1,validation
+CUST00377,2025-09-30,Tier 2,35-44,Referral,,Skin Care,Yes,80,3,1386.54,0.0,0.313,5.0,2,0,0.0,0.0,300,10,41,3,3,0,7,0,16,1,validation
+CUST00396,2025-09-30,Tier 3,25-34,Marketplace,,Hair Care,Yes,10,5,3031.78,0.0,0.214,4.2,4,1,1.0,55.1,247,10,37,4,2,3,9,2,0,0,validation
+CUST00401,2025-09-30,Tier 1,18-24,Organic,Silver,Hair Care,Yes,66,1,568.99,0.0,0.19,4.0,1,1,0.0,5.4,85,2,10,1,0,1,0,0,12,0,validation
+CUST00402,2025-09-30,Tier 1,25-34,Google Search,Gold,Skin Care,Yes,132,1,192.19,0.0,0.28,4.0,1,0,0.0,0.0,423,1,5,0,0,0,3,1,27,1,validation
+CUST00403,2025-09-30,Tier 1,25-34,Marketplace,,Hair Care,Yes,21,2,2029.32,0.0,0.12,4.5,2,0,0.0,0.0,128,15,64,6,4,3,3,1,0,0,validation
+CUST00408,2025-09-30,Tier 1,25-34,Marketplace,,Skin Care,Yes,40,1,729.14,0.0,0.13,5.0,1,0,0.0,0.0,558,0,0,0,0,0,3,1,0,0,validation
+CUST00410,2025-09-30,Tier 2,25-34,Instagram,Gold,Skin Care,Yes,1,2,1365.22,0.0,0.22,4.5,2,1,0.0,2.9,37,16,43,6,3,3,7,0,0,0,validation
+CUST00420,2025-09-30,Tier 2,18-24,Google Search,,Makeup,Yes,18,1,1380.99,0.0,0.0,5.0,1,0,0.0,0.0,546,14,82,5,1,1,5,0,0,0,validation
+CUST00427,2025-09-30,Tier 1,35-44,Google Search,Silver,Skin Care,Yes,1,2,331.53,0.5,0.415,3.5,2,1,1.0,24.2,189,4,12,2,1,1,1,0,6,1,validation
+CUST00436,2025-09-30,Tier 2,25-34,Marketplace,,Baby Care,No,49,3,2100.42,0.0,0.24,3.67,2,0,0.0,0.0,454,2,8,0,1,0,0,0,23,0,validation
+CUST00451,2025-09-30,Tier 2,35-44,Instagram,Silver,Skin Care,Yes,29,2,2306.23,0.0,0.17,4.0,1,0,0.0,0.0,433,3,16,1,0,1,0,0,4,0,validation
+CUST00458,2025-09-30,Tier 1,45+,Google Search,Gold,Makeup,No,4,2,1371.81,0.0,0.4,2.0,2,0,0.0,0.0,93,4,12,1,1,0,0,0,15,0,validation
+CUST00464,2025-09-30,Tier 1,35-44,Referral,Platinum,Skin Care,Yes,106,3,1513.01,0.0,0.357,2.33,3,0,0.0,0.0,595,6,17,1,0,0,2,1,20,1,validation
+CUST00466,2025-09-30,Tier 1,35-44,Organic,Gold,Makeup,Yes,25,5,3048.01,0.2,0.36,3.6,2,0,0.0,0.0,546,9,39,4,1,1,7,2,2,0,validation
+CUST00474,2025-09-30,Tier 1,45+,Google Search,,Hair Care,No,22,3,1652.35,0.333,0.243,4.0,3,0,0.0,0.0,270,5,18,2,1,0,0,0,1,0,validation
+CUST00494,2025-09-30,Tier 1,35-44,Google Search,,Hair Care,No,11,1,660.15,0.0,0.15,4.0,1,0,0.0,0.0,166,6,19,2,1,1,0,0,0,0,validation
+CUST00510,2025-09-30,Tier 2,25-34,Google Search,,Makeup,Yes,162,1,531.36,0.0,0.18,3.0,1,0,0.0,0.0,354,4,22,1,1,1,4,1,29,1,validation
+CUST00513,2025-09-30,Tier 2,18-24,Referral,,Wellness,Yes,27,4,2536.83,0.0,0.223,3.75,2,1,0.0,11.1,520,6,15,3,1,2,2,0,8,0,validation
+CUST00514,2025-09-30,Tier 1,35-44,Influencer,,Makeup,Yes,93,1,1687.55,0.0,0.2,5.0,1,0,0.0,0.0,95,11,55,1,0,0,10,4,13,1,validation
+CUST00519,2025-09-30,Tier 1,35-44,Referral,Gold,Baby Care,No,81,1,412.42,0.0,0.33,1.0,1,0,0.0,0.0,525,0,0,0,0,0,0,0,11,0,validation
+CUST00521,2025-09-30,Tier 1,25-34,Referral,,Makeup,Yes,42,6,2945.06,0.0,0.342,3.5,3,1,1.0,32.5,433,5,18,1,0,1,10,3,8,0,validation
+CUST00532,2025-09-30,Tier 3,25-34,Instagram,,Skin Care,Yes,118,1,880.45,0.0,0.38,4.0,1,0,0.0,0.0,498,1,3,0,0,0,1,0,24,1,validation
+CUST00539,2025-09-30,Tier 1,25-34,Organic,Silver,Baby Care,Yes,65,3,4301.82,0.0,0.207,4.67,3,0,0.0,0.0,609,1,3,0,0,0,4,1,11,0,validation
+CUST00550,2025-09-30,Tier 2,35-44,Organic,,Hair Care,Yes,11,1,525.8,0.0,0.42,5.0,1,0,0.0,0.0,66,0,0,0,0,0,0,0,3,0,validation
+CUST00557,2025-09-30,Tier 1,18-24,Influencer,Silver,Skin Care,Yes,16,2,977.03,0.0,0.2,4.0,2,0,0.0,0.0,590,17,67,6,1,4,6,1,16,0,validation
+CUST00560,2025-09-30,Tier 3,18-24,Referral,,Baby Care,Yes,231,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,311,1,4,0,0,0,3,0,51,1,validation
+CUST00565,2025-09-30,Tier 2,18-24,Referral,Platinum,Fragrance,Yes,39,1,275.55,0.0,0.11,3.0,1,0,0.0,0.0,64,10,48,3,3,1,5,2,7,0,validation
+CUST00574,2025-09-30,Tier 2,25-34,Google Search,Gold,Skin Care,Yes,5,6,5505.69,0.0,0.215,4.17,2,0,0.0,0.0,350,14,49,1,1,0,5,1,0,0,validation
+CUST00581,2025-09-30,Tier 2,18-24,Influencer,Gold,Fragrance,Yes,76,2,1527.79,0.0,0.185,2.0,1,0,0.0,0.0,88,0,0,0,0,0,1,0,11,1,validation
+CUST00585,2025-09-30,Tier 2,25-34,Marketplace,,Hair Care,Yes,113,2,967.27,0.0,0.265,3.5,2,0,0.0,0.0,531,15,45,3,4,1,9,2,9,0,validation
+CUST00600,2025-09-30,Tier 1,25-34,Organic,,Baby Care,Yes,263,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,560,3,16,1,0,0,3,0,53,1,validation
+CUST00609,2025-09-30,Tier 2,45+,Google Search,Silver,Hair Care,Yes,6,5,4581.16,0.0,0.406,3.8,3,0,0.0,0.0,419,6,18,3,0,1,7,1,0,0,validation
+CUST00610,2025-09-30,Tier 3,45+,Influencer,,Makeup,Yes,22,3,3213.04,0.333,0.34,3.0,3,1,1.0,52.4,386,10,48,4,3,3,3,0,7,0,validation
+CUST00617,2025-09-30,Tier 3,25-34,Instagram,,Baby Care,No,14,6,4116.99,0.0,0.385,4.5,3,0,0.0,0.0,311,8,34,4,1,1,0,0,7,0,validation
+CUST00627,2025-09-30,Tier 2,25-34,Instagram,Silver,Hair Care,Yes,75,1,403.11,0.0,0.28,5.0,1,0,0.0,0.0,368,6,19,2,1,0,4,1,17,1,validation
+CUST00639,2025-09-30,Tier 2,25-34,Google Search,,Makeup,Yes,369,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,592,1,3,0,0,0,1,0,58,1,validation
+CUST00650,2025-09-30,Tier 3,45+,Marketplace,Silver,Makeup,Yes,59,2,2193.25,0.0,0.345,3.0,2,0,0.0,0.0,239,6,33,2,1,0,0,0,5,1,validation
+CUST00652,2025-09-30,Tier 1,25-34,Organic,Gold,Skin Care,Yes,75,2,2138.43,0.0,0.505,5.0,2,0,0.0,0.0,371,13,71,2,3,1,4,2,13,0,validation
+CUST00659,2025-09-30,Tier 1,45+,Google Search,Platinum,Skin Care,Yes,16,1,883.27,0.0,0.37,5.0,1,0,0.0,0.0,109,21,105,5,6,4,11,4,0,0,validation
+CUST00683,2025-09-30,Tier 3,25-34,Organic,,Hair Care,Yes,0,3,3422.7,0.0,0.25,4.0,2,1,0.0,14.4,493,7,38,3,1,2,5,1,0,0,validation
+CUST00684,2025-09-30,Tier 1,25-34,Instagram,Gold,Skin Care,No,140,1,547.13,0.0,0.34,4.0,1,0,0.0,0.0,342,2,10,1,0,0,0,0,2,1,validation
+CUST00690,2025-09-30,Tier 2,45+,Instagram,,Skin Care,Yes,4,3,3098.92,0.0,0.303,4.0,2,0,0.0,0.0,259,11,48,6,2,1,10,3,10,0,validation
+CUST00703,2025-09-30,Tier 1,18-24,Instagram,,Baby Care,No,104,1,360.06,0.0,0.31,3.0,1,0,0.0,0.0,183,3,8,2,0,0,0,0,27,1,validation
+CUST00707,2025-09-30,Tier 2,45+,Marketplace,,Skin Care,No,189,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,414,10,53,4,2,3,0,0,19,0,validation
+CUST00708,2025-09-30,Tier 3,25-34,Instagram,,Hair Care,Yes,45,4,2683.09,0.0,0.305,4.25,3,1,1.0,49.7,428,5,20,0,1,0,4,0,5,0,validation
+CUST00710,2025-09-30,Tier 3,35-44,Instagram,Silver,Hair Care,Yes,16,4,2426.17,0.0,0.275,3.75,4,0,0.0,0.0,458,8,25,2,2,1,1,0,0,0,validation
+CUST00718,2025-09-30,Tier 1,25-34,Influencer,,Hair Care,Yes,117,1,348.64,0.0,0.2,3.0,1,0,0.0,0.0,399,2,5,1,0,1,4,1,35,1,validation
+CUST00722,2025-09-30,Tier 2,35-44,Marketplace,,Makeup,No,30,1,256.54,1.0,0.6,4.0,1,1,1.0,29.4,37,1,3,0,0,0,0,0,0,1,validation
+CUST00727,2025-09-30,Tier 3,18-24,Google Search,,Skin Care,Yes,8,4,2696.01,0.25,0.343,4.0,2,0,0.0,0.0,447,10,40,3,1,1,6,2,7,1,validation
+CUST00736,2025-09-30,Tier 2,18-24,Marketplace,,Hair Care,No,66,3,1727.68,0.0,0.353,4.33,3,0,0.0,0.0,569,3,9,0,1,0,0,0,15,1,validation
+CUST00744,2025-09-30,Tier 3,35-44,Marketplace,,Baby Care,Yes,65,2,1108.58,0.0,0.14,4.0,1,0,0.0,0.0,241,2,8,1,0,1,5,2,25,1,validation
+CUST00746,2025-09-30,Tier 2,25-34,Google Search,,Skin Care,Yes,177,1,352.33,0.0,0.53,4.0,1,0,0.0,0.0,322,0,0,0,0,0,3,0,17,1,validation
+CUST00749,2025-09-30,Tier 1,25-34,Marketplace,,Hair Care,Yes,11,1,872.34,0.0,0.41,5.0,1,0,0.0,0.0,248,13,56,6,2,1,8,3,11,0,validation
+CUST00752,2025-09-30,Tier 2,25-34,Referral,,Wellness,Yes,97,2,1319.55,0.0,0.235,4.0,2,0,0.0,0.0,187,2,8,1,0,0,0,0,33,1,validation
+CUST00754,2025-09-30,Tier 3,18-24,Instagram,Gold,Makeup,Yes,37,2,3639.05,0.0,0.13,2.5,2,0,0.0,0.0,158,18,75,2,5,1,8,1,4,0,validation
+CUST00757,2025-09-30,Tier 3,25-34,Google Search,Silver,Skin Care,Yes,8,1,481.24,0.0,0.33,1.0,1,0,0.0,0.0,390,4,14,1,0,1,3,1,0,0,validation
+CUST00772,2025-09-30,Tier 1,25-34,Influencer,Silver,Skin Care,Yes,190,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,392,9,25,1,2,1,4,1,27,1,validation
+CUST00773,2025-09-30,Tier 1,25-34,Referral,Gold,Skin Care,No,71,1,658.94,0.0,0.1,2.0,1,0,0.0,0.0,351,4,21,2,0,0,0,0,3,1,validation
+CUST00781,2025-09-30,Tier 1,35-44,Organic,Gold,Skin Care,Yes,49,1,442.8,0.0,0.38,4.0,1,0,0.0,0.0,139,4,14,0,1,0,4,0,14,0,validation
+CUST00786,2025-09-30,Tier 1,18-24,Referral,Silver,Wellness,No,150,1,1030.43,0.0,0.16,4.0,1,0,0.0,0.0,388,1,4,0,0,0,0,0,28,1,validation
+CUST00795,2025-09-30,Tier 1,18-24,Google Search,Gold,Hair Care,No,138,2,2258.74,0.0,0.16,3.5,2,0,0.0,0.0,206,2,7,1,1,0,0,0,30,1,validation
+CUST00798,2025-09-30,Tier 1,25-34,Google Search,Gold,Skin Care,Yes,57,2,1507.09,0.0,0.225,5.0,2,0,0.0,0.0,547,8,25,4,2,2,5,1,5,0,validation
+CUST00801,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,Yes,76,2,1510.24,0.0,0.22,2.5,2,1,1.0,37.7,226,1,4,0,0,0,1,0,15,1,validation
+CUST00830,2025-09-30,Tier 3,25-34,Organic,,Skin Care,Yes,19,2,1150.55,0.0,0.355,4.0,2,0,0.0,0.0,261,11,30,2,3,1,6,1,6,0,validation
+CUST00835,2025-09-30,Tier 1,25-34,Instagram,Gold,Makeup,No,157,3,1837.3,0.0,0.29,4.33,3,0,0.0,0.0,626,8,23,4,1,3,0,0,12,1,validation
+CUST00844,2025-09-30,Tier 1,35-44,Organic,Silver,Skin Care,Yes,19,1,410.24,0.0,0.32,5.0,1,0,0.0,0.0,22,1,3,0,0,0,3,1,5,0,validation
+CUST00845,2025-09-30,Tier 2,25-34,Referral,,Makeup,Yes,96,1,777.67,0.0,0.56,2.0,1,1,1.0,8.3,403,4,12,1,1,0,2,0,20,1,validation
+CUST00846,2025-09-30,Tier 2,25-34,Instagram,,Wellness,No,41,3,1899.26,0.333,0.12,4.33,3,1,1.0,20.4,621,15,58,8,1,3,0,0,0,0,validation
+CUST00850,2025-09-30,Tier 1,25-34,Organic,Silver,Skin Care,Yes,7,2,2278.03,0.5,0.355,2.5,2,1,1.0,7.8,157,5,30,1,1,1,0,0,4,1,validation
+CUST00857,2025-09-30,Tier 3,25-34,Referral,,Makeup,Yes,67,2,1852.15,0.0,0.365,4.0,2,1,1.0,34.8,539,3,17,1,0,0,4,1,4,0,validation
+CUST00865,2025-09-30,Tier 3,18-24,Google Search,,Hair Care,Yes,50,2,1503.11,0.0,0.38,4.5,2,1,0.0,51.4,64,10,31,2,2,1,7,2,15,0,validation
+CUST00869,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,Yes,93,3,1700.01,0.0,0.347,2.67,1,0,0.0,0.0,362,0,0,0,0,0,1,0,4,1,validation
+CUST00882,2025-09-30,Tier 3,25-34,Instagram,Silver,Fragrance,Yes,85,2,894.79,0.0,0.225,4.5,2,1,0.0,9.8,198,2,11,1,0,1,2,0,11,1,validation
+CUST00896,2025-09-30,Tier 1,25-34,Marketplace,,Makeup,Yes,10,5,2728.69,0.0,0.318,3.8,3,1,0.0,23.9,448,3,10,1,1,1,2,1,12,0,validation
+CUST00901,2025-09-30,Tier 1,35-44,Marketplace,,Baby Care,Yes,35,3,1694.62,0.0,0.257,3.33,2,2,0.0,20.45,213,9,52,4,2,2,4,0,11,0,validation
+CUST00913,2025-09-30,Tier 1,45+,Instagram,,Skin Care,Yes,183,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,384,1,3,0,0,0,3,1,38,1,validation
+CUST00917,2025-09-30,Tier 3,25-34,Marketplace,,Skin Care,Yes,286,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,629,1,4,0,0,0,3,1,60,1,validation
+CUST00919,2025-09-30,Tier 2,25-34,Organic,,Hair Care,No,10,2,1976.34,0.0,0.23,4.0,2,1,1.0,41.3,140,13,44,5,2,1,0,0,5,0,validation
+CUST00921,2025-09-30,Tier 2,25-34,Instagram,Gold,Baby Care,No,195,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,197,3,9,0,1,0,0,0,49,1,validation
+CUST00922,2025-09-30,Tier 3,18-24,Google Search,,Baby Care,Yes,11,1,1131.6,0.0,0.19,5.0,1,0,0.0,0.0,99,9,29,2,1,0,6,3,2,0,validation
+CUST00924,2025-09-30,Tier 2,25-34,Google Search,,Makeup,Yes,44,1,1642.68,0.0,0.41,4.0,1,0,0.0,0.0,342,1,5,0,0,0,7,1,17,0,validation
+CUST00928,2025-09-30,Tier 1,35-44,Organic,,Hair Care,Yes,229,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,308,1,4,0,0,0,5,2,60,1,validation
+CUST00930,2025-09-30,Tier 3,25-34,Referral,Gold,Skin Care,Yes,59,4,2336.49,0.25,0.355,4.25,3,1,1.0,29.5,201,9,26,1,1,1,5,0,8,0,validation
+CUST00933,2025-09-30,Tier 2,18-24,Referral,Silver,Makeup,Yes,205,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,576,0,0,0,0,0,4,0,41,1,validation
+CUST00947,2025-09-30,Tier 3,35-44,Google Search,,Baby Care,Yes,41,3,1553.36,0.0,0.187,5.0,3,0,0.0,0.0,604,0,0,0,0,0,1,0,19,0,validation
+CUST00948,2025-09-30,Tier 3,25-34,Referral,,Hair Care,No,79,1,923.64,0.0,0.1,5.0,1,0,0.0,0.0,98,11,58,2,3,1,0,0,19,1,validation
+CUST00952,2025-09-30,Tier 2,18-24,Marketplace,Gold,Makeup,Yes,42,4,3262.96,0.0,0.295,4.25,3,0,0.0,0.0,578,16,73,6,2,4,11,4,13,0,validation
+CUST00961,2025-09-30,Tier 2,35-44,Google Search,,Skin Care,No,151,2,1378.71,0.0,0.325,4.5,2,0,0.0,0.0,498,2,6,0,0,0,0,0,43,0,validation
+CUST00967,2025-09-30,Tier 3,35-44,Instagram,,Baby Care,Yes,218,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,351,2,7,0,0,0,5,0,53,1,validation
+CUST00973,2025-09-30,Tier 2,18-24,Organic,Silver,Skin Care,No,22,2,908.68,0.0,0.21,3.0,2,0,0.0,0.0,396,4,13,1,0,1,0,0,4,0,validation
+CUST00981,2025-09-30,Tier 2,25-34,Organic,Gold,Fragrance,Yes,103,2,1804.73,0.0,0.29,4.5,2,0,0.0,0.0,487,6,16,3,1,2,1,0,22,0,validation
+CUST00982,2025-09-30,Tier 1,35-44,Instagram,,Makeup,Yes,90,4,1862.89,0.0,0.33,3.75,3,0,0.0,0.0,157,4,17,2,1,1,4,2,11,0,validation
+CUST00983,2025-09-30,Tier 2,18-24,Google Search,,Hair Care,Yes,256,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,276,1,4,0,0,0,0,0,43,1,validation
+CUST00990,2025-09-30,Tier 1,25-34,Influencer,,Hair Care,No,167,3,3332.24,0.0,0.343,3.67,2,0,0.0,0.0,612,6,30,1,1,1,0,0,37,0,validation
+CUST00993,2025-09-30,Tier 3,25-34,Organic,,Fragrance,No,164,1,1246.69,0.0,0.0,5.0,1,0,0.0,0.0,599,1,3,1,0,0,0,0,39,1,validation
+CUST00996,2025-09-30,Tier 1,25-34,Google Search,,Wellness,No,8,5,2250.83,0.0,0.15,3.4,3,1,1.0,3.0,249,14,60,1,1,1,0,0,3,0,validation
+CUST00999,2025-09-30,Tier 2,25-34,Organic,Silver,Skin Care,Yes,148,1,1000.1,0.0,0.3,5.0,1,0,0.0,0.0,609,0,0,0,0,0,2,1,28,1,validation
+CUST01011,2025-09-30,Tier 1,35-44,Google Search,,Skin Care,Yes,365,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,578,4,23,1,1,0,1,0,60,1,validation
+CUST01016,2025-09-30,Tier 2,25-34,Influencer,Gold,Makeup,Yes,0,2,879.15,0.0,0.245,4.5,2,0,0.0,0.0,19,6,16,3,1,1,2,0,1,0,validation
+CUST01018,2025-09-30,Tier 1,18-24,Referral,,Baby Care,Yes,4,1,403.76,0.0,0.36,4.0,1,1,0.0,1.3,30,10,59,2,2,0,6,1,7,0,validation
+CUST01030,2025-09-30,Tier 2,25-34,Google Search,Silver,Fragrance,Yes,32,5,5590.34,0.0,0.208,2.8,3,0,0.0,0.0,440,10,45,1,2,0,8,2,0,0,validation
+CUST01036,2025-09-30,Tier 2,25-34,Instagram,,Hair Care,Yes,141,3,3112.55,0.0,0.227,4.67,3,0,0.0,0.0,336,8,33,2,0,1,4,0,29,1,validation
+CUST01043,2025-09-30,Tier 3,18-24,Marketplace,,Hair Care,No,74,1,464.25,0.0,0.62,5.0,1,0,0.0,0.0,102,1,3,0,0,0,0,0,8,1,validation
+CUST01053,2025-09-30,Tier 1,18-24,Influencer,Silver,Skin Care,No,146,1,2124.84,0.0,0.0,5.0,1,0,0.0,0.0,557,0,0,0,0,0,0,0,32,1,validation
+CUST01075,2025-09-30,Tier 3,45+,Instagram,,Skin Care,Yes,26,2,1464.29,1.0,0.065,4.5,2,2,0.5,24.6,106,1,5,0,0,0,4,0,0,1,validation
+CUST01077,2025-09-30,Tier 1,25-34,Instagram,,Fragrance,No,68,1,1080.77,0.0,0.45,5.0,1,0,0.0,0.0,188,1,4,0,0,0,0,0,22,1,validation
+CUST01080,2025-09-30,Tier 1,35-44,Marketplace,,Hair Care,Yes,117,1,410.76,1.0,0.4,2.0,1,0,0.0,0.0,267,0,0,0,0,0,4,1,16,1,validation
+CUST01090,2025-09-30,Tier 1,45+,Google Search,,Baby Care,Yes,144,2,1200.77,0.0,0.21,2.5,2,0,0.0,0.0,171,1,4,0,0,0,0,0,35,1,validation
+CUST01104,2025-09-30,Tier 1,35-44,Influencer,,Baby Care,No,99,1,515.98,0.0,0.23,4.0,1,0,0.0,0.0,589,8,28,2,2,0,0,0,34,0,validation
+CUST01106,2025-09-30,Tier 3,25-34,Marketplace,Silver,Hair Care,Yes,81,1,1006.69,0.0,0.03,5.0,1,0,0.0,0.0,159,14,66,6,4,3,7,2,14,0,validation
+CUST01109,2025-09-30,Tier 3,45+,Marketplace,,Skin Care,Yes,25,1,304.94,0.0,0.44,5.0,1,0,0.0,0.0,50,7,41,0,1,0,3,1,8,0,validation
+CUST01128,2025-09-30,Tier 3,25-34,Instagram,,Hair Care,Yes,182,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,202,4,20,1,1,0,0,0,36,1,validation
+CUST01129,2025-09-30,Tier 3,25-34,Instagram,Gold,Hair Care,No,157,1,675.97,0.0,0.39,5.0,1,0,0.0,0.0,175,7,34,4,0,1,0,0,28,1,validation
+CUST01133,2025-09-30,Tier 2,25-34,Google Search,,Makeup,Yes,36,2,779.15,0.0,0.3,4.5,2,0,0.0,0.0,159,9,42,5,1,2,7,0,2,1,validation
+CUST01139,2025-09-30,Tier 3,45+,Google Search,Gold,Hair Care,No,21,1,2270.63,0.0,0.28,5.0,1,0,0.0,0.0,21,4,16,1,1,0,0,0,0,0,validation
+CUST01149,2025-09-30,Tier 1,18-24,Referral,Silver,Skin Care,Yes,72,2,1019.31,0.0,0.36,3.0,2,0,0.0,0.0,524,0,0,0,0,0,2,0,20,0,validation
+CUST01153,2025-09-30,Tier 2,25-34,Google Search,Gold,Baby Care,Yes,33,1,714.43,1.0,0.4,1.0,1,1,1.0,32.7,69,7,36,4,2,1,6,1,2,1,validation
+CUST01164,2025-09-30,Tier 1,18-24,Instagram,Platinum,Baby Care,Yes,37,1,965.68,0.0,0.52,5.0,1,0,0.0,0.0,68,15,47,1,4,1,2,0,7,1,validation
+CUST01185,2025-09-30,Tier 1,35-44,Referral,Silver,Skin Care,Yes,23,2,1286.63,0.0,0.185,3.5,2,0,0.0,0.0,524,1,3,0,0,0,6,2,17,0,validation
+CUST01200,2025-09-30,Tier 2,45+,Organic,Platinum,Fragrance,Yes,58,1,524.27,0.0,0.02,4.0,1,0,0.0,0.0,135,5,18,1,0,0,3,1,7,0,validation
+CUST01213,2025-09-30,Tier 2,35-44,Referral,Silver,Wellness,Yes,163,1,492.41,0.0,0.21,4.0,1,0,0.0,0.0,382,3,14,2,0,0,5,1,33,1,validation
+CUST01217,2025-09-30,Tier 3,25-34,Referral,,Makeup,No,163,1,630.07,0.0,0.26,4.0,1,0,0.0,0.0,226,6,33,1,0,1,0,0,36,1,validation
+CUST01229,2025-09-30,Tier 1,25-34,Google Search,,Baby Care,Yes,147,1,484.49,0.0,0.23,5.0,1,0,0.0,0.0,627,5,15,3,1,1,0,0,8,1,validation
+CUST01241,2025-09-30,Tier 1,35-44,Marketplace,,Baby Care,Yes,38,1,185.08,0.0,0.28,4.0,1,0,0.0,0.0,55,9,31,1,2,1,11,0,15,0,validation
+CUST01244,2025-09-30,Tier 3,25-34,Influencer,Gold,Hair Care,No,34,2,2233.4,0.0,0.21,3.5,2,1,1.0,49.1,607,7,37,2,0,1,0,0,4,0,validation
+CUST01248,2025-09-30,Tier 2,25-34,Instagram,,Fragrance,Yes,103,1,1386.38,0.0,0.31,5.0,1,0,0.0,0.0,129,5,28,0,1,0,3,1,15,0,validation
+CUST01260,2025-09-30,Tier 1,25-34,Instagram,,Baby Care,Yes,9,1,913.67,0.0,0.02,3.0,1,0,0.0,0.0,27,4,20,2,0,1,0,0,8,0,validation
+CUST01261,2025-09-30,Tier 1,25-34,Marketplace,Gold,Hair Care,No,18,1,345.05,0.0,0.28,1.0,1,0,0.0,0.0,127,1,3,0,0,0,0,0,0,0,validation
+CUST01280,2025-09-30,Tier 3,35-44,Referral,Silver,Skin Care,Yes,35,4,3888.23,0.0,0.247,4.25,4,0,0.0,0.0,545,5,18,1,1,0,3,0,0,0,validation
+CUST01294,2025-09-30,Tier 1,18-24,Organic,Silver,Skin Care,Yes,3,1,750.26,0.0,0.45,5.0,1,0,0.0,0.0,257,9,53,5,2,1,4,0,0,0,validation
+CUST01315,2025-09-30,Tier 2,25-34,Influencer,,Wellness,No,222,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,483,1,3,0,0,0,0,0,52,1,validation
+CUST01343,2025-09-30,Tier 1,45+,Instagram,,Wellness,No,4,3,1079.78,0.0,0.173,4.67,3,0,0.0,0.0,473,3,11,1,0,0,0,0,7,0,validation
+CUST01346,2025-09-30,Tier 2,45+,Influencer,Silver,Wellness,Yes,38,3,2127.53,0.0,0.29,4.0,2,0,0.0,0.0,620,5,29,1,0,1,2,1,17,0,validation
+CUST01355,2025-09-30,Tier 1,18-24,Organic,Silver,Wellness,No,88,1,547.04,0.0,0.3,2.0,1,0,0.0,0.0,401,2,12,1,0,0,0,0,28,0,validation
+CUST01362,2025-09-30,Tier 2,35-44,Organic,Silver,Wellness,Yes,80,1,378.18,0.0,0.35,4.0,1,0,0.0,0.0,379,16,82,3,4,2,5,1,6,1,validation
+CUST01368,2025-09-30,Tier 3,35-44,Google Search,,Hair Care,Yes,308,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,356,8,42,3,1,2,6,3,60,1,validation
+CUST01380,2025-09-30,Tier 1,35-44,Instagram,,Hair Care,Yes,44,2,729.75,0.0,0.285,4.0,1,0,0.0,0.0,592,1,6,0,0,0,3,1,11,0,validation
+CUST01384,2025-09-30,Tier 2,35-44,Marketplace,,Hair Care,Yes,145,2,3420.26,0.5,0.19,4.0,2,0,0.0,0.0,477,5,16,2,1,1,0,0,24,1,validation
+CUST01393,2025-09-30,Tier 2,25-34,Referral,,Wellness,Yes,85,1,493.02,0.0,0.28,5.0,1,0,0.0,0.0,487,0,0,0,0,0,2,1,18,1,validation
+CUST01399,2025-09-30,Tier 2,25-34,Influencer,Silver,Baby Care,Yes,19,4,2045.41,0.25,0.305,5.0,3,1,1.0,40.8,633,10,48,1,2,1,3,1,6,0,validation
+CUST01404,2025-09-30,Tier 1,25-34,Organic,Gold,Hair Care,Yes,202,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,552,12,48,4,3,2,8,1,24,1,validation
+CUST01410,2025-09-30,Tier 2,25-34,Google Search,,Fragrance,Yes,146,2,670.94,0.0,0.34,3.5,2,0,0.0,0.0,541,11,59,1,0,0,2,0,18,0,validation
+CUST01413,2025-09-30,Tier 1,18-24,Google Search,,Skin Care,Yes,234,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,284,2,12,1,0,1,1,0,39,1,validation
+CUST01415,2025-09-30,Tier 1,25-34,Referral,,Hair Care,Yes,9,1,509.5,0.0,0.29,5.0,1,0,0.0,0.0,22,9,35,4,2,3,6,0,0,0,validation
+CUST01423,2025-09-30,Tier 2,25-34,Marketplace,Silver,Skin Care,No,41,2,840.35,0.0,0.29,1.5,1,0,0.0,0.0,119,5,13,2,1,1,0,0,11,0,validation
+CUST01424,2025-09-30,Tier 2,25-34,Referral,Gold,Hair Care,Yes,93,1,2318.97,0.0,0.43,5.0,1,0,0.0,0.0,469,3,12,1,0,0,0,0,24,0,validation
+CUST01425,2025-09-30,Tier 2,25-34,Marketplace,Silver,Makeup,Yes,48,1,1148.76,0.0,0.32,5.0,1,0,0.0,0.0,73,3,15,1,1,0,3,1,5,1,validation
+CUST01427,2025-09-30,Tier 3,45+,Instagram,Gold,Fragrance,Yes,5,4,2185.26,0.0,0.4,2.75,3,2,1.0,17.15,439,11,36,2,0,1,5,2,9,0,validation
+CUST01443,2025-09-30,Tier 1,35-44,Instagram,,Skin Care,Yes,20,3,3298.22,0.0,0.247,2.67,1,0,0.0,0.0,470,1,5,0,0,0,2,0,9,0,validation
+CUST01449,2025-09-30,Tier 1,25-34,Referral,,Wellness,Yes,3,2,874.09,0.0,0.315,4.5,2,1,1.0,21.2,86,5,14,1,1,1,5,2,0,0,validation
+CUST01451,2025-09-30,Tier 2,45+,Organic,Gold,Skin Care,Yes,34,1,1506.43,0.0,0.41,4.0,1,1,0.0,16.1,397,13,40,2,4,1,6,0,7,0,validation
+CUST01457,2025-09-30,Tier 2,25-34,Referral,,Fragrance,Yes,248,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,552,0,0,0,0,0,2,0,46,1,validation
+CUST01461,2025-09-30,Tier 3,35-44,Google Search,Silver,Fragrance,No,107,2,1214.31,0.0,0.29,4.5,2,0,0.0,0.0,448,3,17,1,0,1,0,0,35,0,validation
+CUST01469,2025-09-30,Tier 3,18-24,Influencer,Silver,Skin Care,Yes,44,1,1313.43,0.0,0.17,4.0,1,0,0.0,0.0,48,0,0,0,0,0,4,1,0,0,validation
+CUST01473,2025-09-30,Tier 2,35-44,Referral,Silver,Fragrance,Yes,48,3,2475.68,0.0,0.26,3.67,3,0,0.0,0.0,514,5,24,0,0,0,2,1,9,0,validation
+CUST01489,2025-09-30,Tier 3,35-44,Influencer,Silver,Makeup,No,41,4,5287.87,0.0,0.253,4.25,3,1,1.0,45.0,419,9,34,1,1,0,0,0,0,0,validation
+CUST01499,2025-09-30,Tier 1,18-24,Referral,Silver,Makeup,No,133,1,1510.54,0.0,0.25,3.0,1,0,0.0,0.0,543,3,16,0,0,0,0,0,28,1,validation
+CUST01500,2025-09-30,Tier 2,25-34,Instagram,Silver,Skin Care,Yes,95,1,269.54,0.0,0.34,4.0,1,0,0.0,0.0,355,8,38,2,0,1,4,0,18,0,validation
+CUST01509,2025-09-30,Tier 3,25-34,Instagram,,Wellness,No,6,3,1236.7,0.333,0.37,2.33,2,1,1.0,42.2,242,17,97,8,4,1,0,0,0,0,validation
+CUST01514,2025-09-30,Tier 2,25-34,Instagram,,Hair Care,Yes,82,3,1466.5,0.0,0.233,4.33,2,0,0.0,0.0,282,5,29,1,0,1,6,3,23,0,validation
+CUST01519,2025-09-30,Tier 2,18-24,Instagram,,Skin Care,No,105,3,3216.75,0.0,0.167,4.0,2,0,0.0,0.0,228,0,0,0,0,0,0,0,20,0,validation
+CUST01534,2025-09-30,Tier 3,25-34,Referral,,Skin Care,Yes,22,1,416.32,0.0,0.24,5.0,1,0,0.0,0.0,119,7,25,3,2,2,1,0,15,0,validation
+CUST01558,2025-09-30,Tier 2,18-24,Marketplace,,Skin Care,Yes,210,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,412,1,6,0,0,0,0,0,38,1,validation
+CUST01561,2025-09-30,Tier 1,18-24,Instagram,,Skin Care,Yes,153,1,567.89,0.0,0.21,4.0,1,0,0.0,0.0,228,5,17,1,1,0,6,3,16,1,validation
+CUST01577,2025-09-30,Tier 3,35-44,Marketplace,Silver,Baby Care,No,107,1,343.71,1.0,0.42,4.0,1,0,0.0,0.0,114,3,11,1,0,1,0,0,16,1,validation
+CUST01592,2025-09-30,Tier 1,35-44,Instagram,Silver,Hair Care,Yes,117,1,500.86,0.0,0.21,4.0,1,0,0.0,0.0,142,8,45,4,0,2,3,0,26,0,validation
+CUST01595,2025-09-30,Tier 3,25-34,Instagram,,Skin Care,Yes,59,1,531.64,0.0,0.27,5.0,1,0,0.0,0.0,295,8,30,3,0,1,5,1,11,0,validation
+CUST01611,2025-09-30,Tier 3,45+,Organic,Gold,Hair Care,Yes,28,4,2180.72,0.0,0.29,4.75,4,0,0.0,0.0,414,1,3,0,0,0,8,3,6,0,validation
+CUST01621,2025-09-30,Tier 2,45+,Instagram,Silver,Baby Care,Yes,26,3,2561.91,0.0,0.147,3.67,3,1,0.0,20.6,417,10,57,2,1,0,6,3,3,0,validation
+CUST01625,2025-09-30,Tier 2,35-44,Instagram,Silver,Skin Care,Yes,10,2,679.18,0.0,0.27,5.0,2,1,0.0,1.5,242,7,29,1,2,1,3,1,3,0,validation
+CUST01626,2025-09-30,Tier 2,35-44,Google Search,Silver,Wellness,No,28,3,2085.26,0.0,0.313,3.33,3,0,0.0,0.0,415,6,18,1,1,1,0,0,1,1,validation
+CUST01628,2025-09-30,Tier 2,25-34,Google Search,Silver,Baby Care,No,180,1,399.53,1.0,0.31,1.0,1,0,0.0,0.0,450,4,17,1,1,0,0,0,25,1,validation
+CUST01643,2025-09-30,Tier 1,18-24,Marketplace,,Fragrance,Yes,182,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,486,5,28,0,1,0,6,2,30,1,validation
+CUST01646,2025-09-30,Tier 1,45+,Marketplace,Silver,Wellness,Yes,66,4,2483.29,0.0,0.213,3.0,3,0,0.0,0.0,473,10,32,3,2,1,0,0,5,0,validation
+CUST01666,2025-09-30,Tier 2,45+,Google Search,,Fragrance,Yes,318,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,544,5,21,0,0,0,8,4,57,1,validation
+CUST01668,2025-09-30,Tier 1,35-44,Google Search,Silver,Skin Care,Yes,106,3,2195.57,0.0,0.37,4.33,3,0,0.0,0.0,613,7,36,4,1,1,5,0,14,1,validation
+CUST01671,2025-09-30,Tier 1,35-44,Instagram,,Fragrance,Yes,79,3,3295.24,0.333,0.407,4.0,2,1,1.0,42.3,456,1,3,0,0,0,0,0,22,0,validation
+CUST01688,2025-09-30,Tier 1,25-34,Influencer,Silver,Hair Care,Yes,130,1,602.81,0.0,0.42,1.0,1,0,0.0,0.0,545,9,26,1,2,1,2,0,26,1,validation
+CUST01691,2025-09-30,Tier 1,25-34,Referral,Gold,Skin Care,No,89,1,591.46,1.0,0.31,4.0,1,1,1.0,25.9,103,8,23,1,2,0,0,0,17,1,validation
+CUST01694,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,Yes,38,1,759.46,0.0,0.43,5.0,1,0,0.0,0.0,46,10,55,2,0,1,5,2,2,1,validation
+CUST01700,2025-09-30,Tier 2,25-34,Referral,,Skin Care,Yes,6,2,2044.9,0.0,0.365,3.0,2,0,0.0,0.0,474,14,39,6,2,4,6,2,22,1,validation
+CUST01704,2025-09-30,Tier 1,18-24,Marketplace,,Skin Care,Yes,47,1,926.37,0.0,0.06,5.0,1,0,0.0,0.0,64,13,50,2,3,0,7,2,24,0,validation
+CUST01710,2025-09-30,Tier 2,45+,Referral,Silver,Wellness,Yes,58,3,1236.27,0.0,0.41,3.33,2,1,1.0,31.0,156,10,44,2,2,1,6,1,0,0,validation
+CUST01713,2025-09-30,Tier 1,18-24,Referral,,Hair Care,Yes,41,5,3851.72,0.4,0.202,3.8,2,1,1.0,13.5,528,1,3,0,0,0,0,0,10,1,validation
+CUST01714,2025-09-30,Tier 3,18-24,Influencer,Silver,Makeup,Yes,132,1,894.52,0.0,0.2,5.0,1,0,0.0,0.0,610,0,0,0,0,0,2,0,36,1,validation
+CUST01728,2025-09-30,Tier 1,45+,Marketplace,Platinum,Baby Care,Yes,10,2,1236.25,0.0,0.155,3.5,1,0,0.0,0.0,170,5,29,1,1,0,2,1,0,0,validation
+CUST01731,2025-09-30,Tier 2,25-34,Instagram,,Fragrance,Yes,102,1,531.75,0.0,0.36,3.0,1,0,0.0,0.0,378,1,3,0,0,0,4,2,15,1,validation
+CUST01734,2025-09-30,Tier 1,35-44,Google Search,Silver,Makeup,Yes,160,1,1515.59,0.0,0.22,4.0,1,0,0.0,0.0,617,2,12,0,1,0,1,0,39,1,validation
+CUST01738,2025-09-30,Tier 1,18-24,Google Search,Silver,Makeup,Yes,39,4,2851.85,0.0,0.323,2.5,3,0,0.0,0.0,218,7,32,3,1,1,6,3,6,0,validation
+CUST01740,2025-09-30,Tier 1,25-34,Marketplace,,Baby Care,Yes,22,1,717.61,0.0,0.32,5.0,1,0,0.0,0.0,74,1,3,0,0,0,0,0,5,0,validation
+CUST01744,2025-09-30,Tier 2,25-34,Google Search,,Hair Care,No,111,1,1021.08,0.0,0.37,1.0,1,0,0.0,0.0,129,3,17,1,0,1,0,0,19,0,validation
+CUST01747,2025-09-30,Tier 3,45+,Referral,Gold,Fragrance,Yes,24,1,1498.03,0.0,0.3,4.0,1,0,0.0,0.0,141,7,32,4,1,1,3,1,5,0,validation
+CUST01754,2025-09-30,Tier 2,45+,Organic,,Hair Care,Yes,13,2,806.9,0.0,0.25,4.5,1,0,0.0,0.0,83,4,20,1,0,1,2,1,0,0,validation
+CUST01756,2025-09-30,Tier 1,25-34,Marketplace,Silver,Skin Care,Yes,90,2,1557.58,0.0,0.215,4.5,2,0,0.0,0.0,409,12,52,4,3,3,5,2,8,0,validation
+CUST01760,2025-09-30,Tier 3,45+,Instagram,,Hair Care,Yes,69,3,2991.54,0.0,0.117,3.67,3,0,0.0,0.0,621,2,5,1,0,1,1,0,5,0,validation
+CUST01761,2025-09-30,Tier 2,18-24,Google Search,,Baby Care,Yes,89,4,3303.61,0.0,0.297,4.25,3,0,0.0,0.0,542,2,9,1,0,0,4,1,21,0,validation
+CUST01762,2025-09-30,Tier 2,35-44,Organic,,Baby Care,Yes,66,1,2131.17,0.0,0.25,4.0,1,0,0.0,0.0,629,1,5,0,0,0,0,0,16,0,validation
+CUST01764,2025-09-30,Tier 1,25-34,Marketplace,,Hair Care,No,45,3,1471.84,0.0,0.337,3.67,3,1,1.0,38.2,129,5,24,1,1,0,0,0,3,1,validation
+CUST01765,2025-09-30,Tier 2,18-24,Google Search,,Wellness,Yes,265,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,329,0,0,0,0,0,5,1,51,1,validation
+CUST01777,2025-09-30,Tier 2,18-24,Marketplace,,Skin Care,Yes,167,2,1872.12,0.0,0.19,4.5,2,0,0.0,0.0,397,6,31,0,1,0,3,1,44,1,validation
+CUST01799,2025-09-30,Tier 2,25-34,Referral,Silver,Baby Care,No,74,1,659.32,0.0,0.15,5.0,1,1,1.0,5.5,124,0,0,0,0,0,0,0,12,1,validation
+CUST01814,2025-09-30,Tier 1,25-34,Instagram,,Hair Care,Yes,43,1,579.84,0.0,0.24,4.0,1,1,1.0,6.5,46,6,24,0,1,0,1,0,6,0,validation
+CUST01823,2025-09-30,Tier 3,25-34,Google Search,,Skin Care,Yes,32,1,1142.69,0.0,0.27,3.0,1,0,0.0,0.0,475,6,19,3,1,2,3,0,0,0,validation
+CUST01836,2025-09-30,Tier 2,25-34,Google Search,,Wellness,Yes,125,2,1392.01,0.0,0.34,4.5,2,0,0.0,0.0,558,12,67,3,1,1,7,1,19,1,validation
+CUST01841,2025-09-30,Tier 1,18-24,Marketplace,Silver,Wellness,Yes,14,4,2919.05,0.0,0.258,4.0,4,0,0.0,0.0,331,17,87,3,3,0,7,0,14,0,validation
+CUST01842,2025-09-30,Tier 1,45+,Google Search,,Hair Care,Yes,161,1,1332.91,0.0,0.32,5.0,1,0,0.0,0.0,305,0,0,0,0,0,5,1,31,1,validation
+CUST01864,2025-09-30,Tier 1,25-34,Google Search,,Fragrance,No,221,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,235,3,12,2,1,0,0,0,44,0,validation
+CUST01871,2025-09-30,Tier 2,35-44,Instagram,,Hair Care,No,100,1,1448.69,0.0,0.06,5.0,1,0,0.0,0.0,126,1,5,0,0,0,0,0,30,1,validation
+CUST01878,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,Yes,22,1,314.15,0.0,0.55,5.0,1,0,0.0,0.0,102,4,13,1,0,0,2,0,6,1,validation
+CUST01882,2025-09-30,Tier 1,25-34,Organic,Gold,Skin Care,Yes,219,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,597,0,0,0,0,0,0,0,41,1,validation
+CUST01904,2025-09-30,Tier 2,45+,Google Search,Silver,Makeup,Yes,39,3,2969.43,0.333,0.273,3.33,3,1,0.0,32.9,199,4,23,2,1,1,0,0,3,0,validation
+CUST01913,2025-09-30,Tier 2,35-44,Google Search,,Baby Care,Yes,78,1,422.52,0.0,0.44,5.0,1,0,0.0,0.0,353,2,11,1,0,0,0,0,6,1,validation
+CUST01920,2025-09-30,Tier 2,25-34,Influencer,Silver,Skin Care,Yes,215,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,605,1,3,0,0,0,1,0,48,1,validation
+CUST01924,2025-09-30,Tier 2,18-24,Marketplace,Platinum,Skin Care,No,61,1,371.86,0.0,0.25,3.0,1,0,0.0,0.0,88,13,57,4,2,1,0,0,6,0,validation
+CUST01929,2025-09-30,Tier 3,18-24,Marketplace,Gold,Hair Care,No,163,1,412.99,0.0,0.24,2.0,1,0,0.0,0.0,246,5,24,2,1,1,0,0,29,1,validation
+CUST01934,2025-09-30,Tier 1,25-34,Referral,,Baby Care,No,33,1,585.58,0.0,0.28,5.0,1,0,0.0,0.0,83,8,31,2,2,1,0,0,0,0,validation
+CUST01952,2025-09-30,Tier 1,25-34,Google Search,,Wellness,Yes,313,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,437,3,11,1,1,1,0,0,59,1,validation
+CUST01956,2025-09-30,Tier 2,35-44,Marketplace,,Hair Care,Yes,78,1,301.98,0.0,0.28,4.0,1,0,0.0,0.0,138,5,14,1,1,0,3,1,2,1,validation
+CUST01957,2025-09-30,Tier 2,25-34,Marketplace,Gold,Fragrance,No,210,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,554,3,11,1,0,0,0,0,50,1,validation
+CUST01968,2025-09-30,Tier 1,18-24,Marketplace,Platinum,Makeup,Yes,59,1,1323.58,1.0,0.19,4.0,1,1,1.0,24.1,136,2,12,0,1,0,2,1,3,1,validation
+CUST01969,2025-09-30,Tier 1,35-44,Google Search,,Skin Care,Yes,80,2,1641.0,0.0,0.27,4.5,2,1,0.0,17.9,205,3,16,0,0,0,3,0,23,0,validation
+CUST01987,2025-09-30,Tier 1,25-34,Influencer,,Skin Care,No,127,1,299.78,0.0,0.47,5.0,1,0,0.0,0.0,128,4,10,2,0,1,0,0,27,1,validation
+CUST01989,2025-09-30,Tier 1,18-24,Google Search,Silver,Hair Care,No,70,1,402.97,0.0,0.27,5.0,1,0,0.0,0.0,460,0,0,0,0,0,0,0,10,1,validation
+CUST01994,2025-09-30,Tier 3,18-24,Google Search,,Wellness,Yes,83,1,716.99,0.0,0.25,5.0,1,0,0.0,0.0,628,0,0,0,0,0,0,0,11,0,validation
+CUST02003,2025-09-30,Tier 3,18-24,Google Search,,Skin Care,No,169,1,225.92,0.0,0.51,4.0,1,0,0.0,0.0,465,3,8,1,0,0,0,0,30,1,validation
+CUST02004,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,Yes,1,1,1164.15,0.0,0.14,4.0,1,0,0.0,0.0,41,6,26,3,1,1,3,1,6,0,validation
+CUST02010,2025-09-30,Tier 1,45+,Referral,,Skin Care,Yes,97,2,3814.95,0.0,0.185,3.5,2,0,0.0,0.0,519,6,19,2,2,1,7,3,24,0,validation
+CUST02012,2025-09-30,Tier 1,18-24,Google Search,Silver,Makeup,No,4,1,397.31,0.0,0.37,5.0,1,1,0.0,17.4,86,7,26,1,1,0,0,0,2,0,validation
+CUST02015,2025-09-30,Tier 2,25-34,Google Search,,Wellness,No,212,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,444,4,13,1,0,0,0,0,47,1,validation
+CUST02025,2025-09-30,Tier 2,25-34,Influencer,,Makeup,Yes,44,3,2973.5,0.0,0.217,4.0,2,0,0.0,0.0,417,3,15,0,1,0,2,1,1,0,validation
+CUST02043,2025-09-30,Tier 2,18-24,Instagram,,Skin Care,Yes,10,1,429.28,0.0,0.42,5.0,1,0,0.0,0.0,49,6,17,3,0,1,3,1,8,0,validation
+CUST02056,2025-09-30,Tier 2,18-24,Marketplace,Gold,Fragrance,Yes,195,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,535,2,6,0,1,0,6,1,35,1,validation
+CUST02059,2025-09-30,Tier 2,18-24,Referral,,Wellness,Yes,53,3,2449.99,0.0,0.313,2.67,3,1,1.0,10.1,135,2,8,0,0,0,3,1,7,0,validation
+CUST02067,2025-09-30,Tier 2,18-24,Marketplace,Gold,Skin Care,Yes,55,3,5011.96,0.0,0.177,5.0,2,1,1.0,28.1,372,5,25,1,1,1,4,0,9,0,validation
+CUST02075,2025-09-30,Tier 3,35-44,Google Search,,Wellness,Yes,271,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,593,0,0,0,0,0,0,0,59,1,validation
+CUST02079,2025-09-30,Tier 2,45+,Marketplace,,Baby Care,Yes,19,4,1749.94,0.25,0.365,4.0,3,1,1.0,41.3,466,1,5,0,0,0,2,0,6,0,validation
+CUST02091,2025-09-30,Tier 1,18-24,Referral,,Hair Care,Yes,19,1,872.98,0.0,0.43,4.0,1,0,0.0,0.0,28,10,44,2,0,1,7,1,4,0,validation
+CUST02092,2025-09-30,Tier 2,25-34,Marketplace,Gold,Makeup,No,174,1,776.3,0.0,0.46,5.0,1,0,0.0,0.0,409,2,9,0,0,0,0,0,31,1,validation
+CUST02096,2025-09-30,Tier 1,25-34,Influencer,,Skin Care,Yes,5,2,1424.87,0.0,0.265,4.0,1,0,0.0,0.0,352,9,43,2,1,1,2,0,0,1,validation
+CUST02098,2025-09-30,Tier 2,35-44,Marketplace,Silver,Baby Care,No,223,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,236,8,30,1,2,1,0,0,32,1,validation
+CUST02119,2025-09-30,Tier 2,25-34,Referral,,Makeup,Yes,44,3,2881.38,0.0,0.273,4.0,3,1,1.0,73.8,454,8,47,4,2,1,8,0,0,0,validation
+CUST02123,2025-09-30,Tier 1,25-34,Influencer,,Hair Care,Yes,108,1,448.88,0.0,0.17,5.0,1,0,0.0,0.0,427,0,0,0,0,0,3,1,17,0,validation
+CUST02131,2025-09-30,Tier 1,25-34,Instagram,,Skin Care,No,93,3,1836.28,0.0,0.337,4.0,2,0,0.0,0.0,424,2,9,0,1,0,0,0,29,0,validation
+CUST02132,2025-09-30,Tier 3,25-34,Google Search,,Skin Care,Yes,0,1,585.94,0.0,0.53,3.0,1,0,0.0,0.0,26,1,5,0,0,0,1,0,5,0,validation
+CUST02135,2025-09-30,Tier 1,35-44,Organic,,Makeup,No,66,1,1006.67,0.0,0.46,4.0,1,1,0.0,18.9,155,2,10,0,0,0,0,0,13,1,validation
+CUST02150,2025-09-30,Tier 2,25-34,Instagram,,Makeup,Yes,245,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,465,2,10,1,1,1,5,2,55,1,validation
+CUST02151,2025-09-30,Tier 1,25-34,Google Search,,Makeup,Yes,39,2,2018.88,0.0,0.34,5.0,2,1,1.0,46.2,439,9,47,2,3,1,2,1,10,0,validation
+CUST02153,2025-09-30,Tier 3,45+,Instagram,,Wellness,Yes,78,2,775.08,0.0,0.41,3.0,2,1,1.0,27.9,563,3,10,0,1,0,0,0,12,1,validation
+CUST02160,2025-09-30,Tier 3,25-34,Influencer,,Wellness,No,3,1,579.07,0.0,0.25,4.0,1,1,1.0,54.7,332,2,10,1,0,0,0,0,0,0,validation
+CUST02165,2025-09-30,Tier 2,25-34,Marketplace,,Wellness,Yes,39,2,667.69,0.0,0.185,4.0,1,0,0.0,0.0,161,3,9,0,1,0,1,0,0,0,validation
+CUST02168,2025-09-30,Tier 1,25-34,Google Search,,Skin Care,Yes,165,1,1152.66,1.0,0.27,5.0,1,0,0.0,0.0,268,8,31,2,2,1,3,1,30,1,validation
+CUST02179,2025-09-30,Tier 1,18-24,Google Search,Platinum,Baby Care,No,14,1,475.85,0.0,0.17,3.0,1,1,0.0,21.0,410,9,48,2,2,1,0,0,0,0,validation
+CUST02181,2025-09-30,Tier 1,25-34,Google Search,,Hair Care,No,11,1,908.67,0.0,0.08,4.0,1,0,0.0,0.0,28,5,18,3,1,2,0,0,11,0,validation
+CUST02184,2025-09-30,Tier 1,35-44,Google Search,,Skin Care,Yes,110,2,1434.1,0.0,0.385,3.5,2,0,0.0,0.0,184,2,12,0,0,0,0,0,22,1,validation
+CUST02186,2025-09-30,Tier 2,25-34,Referral,Gold,Hair Care,Yes,122,2,1512.69,0.0,0.2,4.5,2,0,0.0,0.0,363,5,16,2,1,1,3,1,26,1,validation
+CUST02191,2025-09-30,Tier 1,25-34,Influencer,Silver,Baby Care,Yes,158,1,445.44,0.0,0.19,4.0,1,0,0.0,0.0,495,4,23,1,1,0,0,0,13,1,validation
+CUST02193,2025-09-30,Tier 3,18-24,Organic,,Wellness,No,18,1,395.16,0.0,0.5,4.0,1,0,0.0,0.0,20,10,47,5,0,2,0,0,4,0,validation
+CUST02202,2025-09-30,Tier 1,18-24,Instagram,,Baby Care,Yes,2,3,1483.73,0.0,0.26,4.33,2,0,0.0,0.0,479,2,11,0,0,0,5,1,0,0,validation
+CUST02207,2025-09-30,Tier 2,25-34,Organic,,Hair Care,No,29,5,3048.95,0.2,0.242,3.6,3,1,0.0,25.9,533,2,8,1,0,1,0,0,9,0,validation
+CUST02210,2025-09-30,Tier 1,35-44,Marketplace,Silver,Wellness,Yes,154,1,1211.39,0.0,0.15,2.0,1,0,0.0,0.0,264,1,3,0,0,0,0,0,23,1,validation
+CUST02226,2025-09-30,Tier 1,25-34,Google Search,Gold,Hair Care,Yes,49,4,1862.57,0.0,0.385,3.75,2,1,1.0,31.7,576,5,21,1,0,0,1,0,10,0,validation
+CUST02234,2025-09-30,Tier 2,45+,Referral,Gold,Skin Care,Yes,169,1,880.11,0.0,0.15,4.0,1,0,0.0,0.0,364,5,26,3,1,2,2,0,35,1,validation
+CUST02242,2025-09-30,Tier 2,25-34,Google Search,,Makeup,Yes,130,1,404.78,0.0,0.37,3.0,1,0,0.0,0.0,253,1,5,0,0,0,0,0,29,1,validation
+CUST02265,2025-09-30,Tier 2,18-24,Instagram,Silver,Skin Care,No,31,1,280.88,0.0,0.54,4.0,1,0,0.0,0.0,111,3,11,2,1,1,0,0,0,1,validation
+CUST02277,2025-09-30,Tier 2,45+,Influencer,,Makeup,No,218,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,262,4,18,1,0,0,0,0,49,1,validation
+CUST02290,2025-09-30,Tier 1,35-44,Marketplace,,Hair Care,Yes,76,3,3009.11,0.333,0.293,3.0,2,1,1.0,29.3,451,6,18,2,1,1,0,0,7,0,validation
+CUST02295,2025-09-30,Tier 2,45+,Google Search,,Baby Care,Yes,24,2,958.62,0.0,0.35,4.0,2,1,0.0,1.9,115,3,9,0,0,0,1,0,0,0,validation
+CUST02300,2025-09-30,Tier 1,18-24,Google Search,,Skin Care,Yes,104,3,3051.79,0.0,0.143,3.67,2,0,0.0,0.0,377,1,4,1,0,0,3,1,29,0,validation
+CUST02305,2025-09-30,Tier 3,25-34,Organic,,Makeup,No,40,3,2660.79,0.0,0.323,4.67,3,0,0.0,0.0,386,12,31,1,1,1,0,0,1,0,validation
+CUST02310,2025-09-30,Tier 2,25-34,Referral,,Fragrance,Yes,25,2,1181.73,0.0,0.26,4.5,2,1,0.0,10.5,489,8,22,2,2,0,5,2,1,0,validation
+CUST02311,2025-09-30,Tier 1,18-24,Google Search,,Hair Care,Yes,200,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,317,3,12,0,1,0,5,2,38,1,validation
+CUST02313,2025-09-30,Tier 1,35-44,Referral,Silver,Skin Care,Yes,171,1,583.08,0.0,0.36,5.0,1,0,0.0,0.0,213,3,9,1,1,1,0,0,30,0,validation
+CUST02321,2025-09-30,Tier 3,35-44,Google Search,Silver,Fragrance,Yes,172,2,721.34,0.0,0.35,4.5,2,0,0.0,0.0,343,3,17,1,1,0,5,2,18,1,validation
+CUST02327,2025-09-30,Tier 1,25-34,Referral,,Skin Care,Yes,160,1,308.94,0.0,0.33,5.0,1,0,0.0,0.0,490,9,53,1,1,1,3,1,32,1,validation
+CUST02330,2025-09-30,Tier 3,25-34,Organic,Platinum,Hair Care,Yes,75,4,5029.91,0.25,0.225,3.5,3,1,0.0,23.4,525,4,18,1,1,0,3,0,3,0,validation
+CUST02336,2025-09-30,Tier 2,25-34,Google Search,,Fragrance,Yes,78,2,777.17,0.0,0.225,4.5,2,0,0.0,0.0,157,13,56,7,4,5,6,2,4,0,validation
+CUST02337,2025-09-30,Tier 1,25-34,Referral,,Skin Care,Yes,13,1,1911.28,0.0,0.19,5.0,1,0,0.0,0.0,23,21,55,2,2,0,7,2,0,0,validation
+CUST02346,2025-09-30,Tier 2,45+,Instagram,,Skin Care,No,16,3,1415.13,0.0,0.333,4.67,2,2,1.0,25.95,338,6,24,3,0,1,0,0,0,0,validation
+CUST02349,2025-09-30,Tier 2,18-24,Referral,,Fragrance,Yes,54,3,1811.6,0.0,0.22,4.0,2,0,0.0,0.0,262,9,38,1,3,1,4,1,8,0,validation
+CUST02352,2025-09-30,Tier 2,35-44,Organic,,Baby Care,Yes,8,2,1349.29,0.0,0.22,3.0,2,0,0.0,0.0,244,3,12,2,1,1,1,0,15,0,validation
+CUST02364,2025-09-30,Tier 1,25-34,Google Search,,Skin Care,No,153,2,1091.09,0.0,0.325,3.5,2,0,0.0,0.0,195,1,5,0,0,0,0,0,31,0,validation
+CUST02399,2025-09-30,Tier 1,45+,Instagram,,Wellness,Yes,276,0,0.0,0.0,0.0,3.5,0,0,0.0,0.0,428,1,4,1,0,1,5,1,60,1,validation
