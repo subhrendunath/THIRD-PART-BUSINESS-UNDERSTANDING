@@ -1,0 +1,11 @@
+type,customer_id,prob,pred,true,recency_days,sessions_30d,monetary_180d,marketing_consent,interpretation
+FP,CUST00961,0.981177568435669,1,0,151,2,1378.71,No,"recency_days≈churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn; no_marketing_consent,high_rating"
+FP,CUST02364,0.9783065915107727,1,0,153,1,1091.09,No,"recency_days≈churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn; no_marketing_consent"
+FP,CUST01744,0.9310347437858582,1,0,111,3,1021.08,No,"recency_days≈churn, frequency_180d≈churn, monetary_180d≈churn, return_rate_180d≈no-churn; no_marketing_consent"
+FP,CUST01592,0.9118806719779968,1,0,117,8,500.86,Yes,"recency_days≈churn, frequency_180d≈churn, monetary_180d≈churn, return_rate_180d≈no-churn"
+FP,CUST02313,0.9057800769805908,1,0,171,3,583.08,Yes,"recency_days≈churn, frequency_180d≈churn, monetary_180d≈churn, return_rate_180d≈no-churn; high_rating"
+FN,CUST00727,0.003868334461003542,0,1,8,10,2696.01,Yes,"recency_days≈no-churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn"
+FN,CUST02096,0.014351382851600647,0,1,5,9,1424.87,Yes,"recency_days≈no-churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn"
+FN,CUST01700,0.015329888090491295,0,1,6,14,2044.90,Yes,"recency_days≈no-churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn"
+FN,CUST00850,0.02243121527135372,0,1,7,5,2278.03,Yes,"recency_days≈no-churn, frequency_180d≈no-churn, monetary_180d≈no-churn, return_rate_180d≈no-churn"
+FN,CUST00157,0.023552242666482925,0,1,0,3,376.83,Yes,"recency_days≈no-churn, frequency_180d≈churn, monetary_180d≈churn, return_rate_180d≈no-churn"
