@@ -1,0 +1,31 @@
+recency: Days since last purchase or visit.
+  Why it matters: long recency strongly increases churn probability — customers who haven't returned recently are at higher risk.
+
+sessions_30d: Number of site/app sessions in last 30 days.
+  Why it matters: higher recent sessions decrease churn probability (shows active engagement).
+
+frequency_180d: Purchase frequency in last 180 days.
+  Why it matters: frequent purchasers are loyal; low frequency raises churn risk.
+
+monetary_180d: Spend in last 180 days.
+  Why it matters: high monetary value lowers churn risk and increases retention priority for interventions.
+
+return_rate_180d: Fraction of returned orders in 180 days.
+  Why it matters: high returns often signal dissatisfaction and raise churn probability.
+
+avg_discount_pct_180d: Average discount used by customer.
+  Why it matters: heavy discount reliance can indicate price-sensitivity and higher churn when discounts stop.
+
+avg_rating_180d: Average product/service rating left by customer.
+  Why it matters: low ratings correlate with higher churn; high ratings are protective.
+
+marketing_consent: Whether customer allows marketing contact.
+  Why it matters: customers without consent cannot be re-engaged via campaigns, increasing effective churn risk.
+
+loyalty_tier: Customer loyalty program level (e.g., Silver/Gold/Platinum).
+  Why it matters: higher tiers usually reduce churn probability and are high-value to retain.
+
+product_views_30d: Product page views in last 30 days.
+  Why it matters: recent browsing with low purchases can indicate intent that may convert with the right retention action.
+
+Summary: The model heavily weights recency and recent engagement (sessions, frequency, product views), with monetary and loyalty signals moderating risk. Business actions should combine model scores with rules (e.g., protect high-monetary customers or require marketing consent) to avoid costly false positives.
